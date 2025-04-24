@@ -23,7 +23,7 @@ If you don't have the project on your local machine, you can clone it using `git
 
 To clone:
 ```bash
-git clone https://github.com/your-username/password-strength-meter.git
+https://github.com/muslim785/02_password_strength_meter.git
 ```
 
 Alternatively, if you've downloaded the project as a ZIP file, extract it to your desired folder.
